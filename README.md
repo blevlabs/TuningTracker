@@ -10,14 +10,6 @@ The AI Data Tracker library is a Python package that provides a simple and effic
 - Perform semantic searches and data reviews.
 - Mass export for dataset usage.
 
-## Installation
-
-This library requires Python 3.6 or later. You can install it using pip:
-
-```
-pip install ai-data-tracker
-```
-
 ## Usage
 
 Here's a basic example of how to use the AI Data Tracker library:
